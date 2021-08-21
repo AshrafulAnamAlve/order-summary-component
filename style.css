@@ -1,0 +1,78 @@
+body{
+    margin: 10px;
+    text-align: center;
+    color: #002366;
+}
+section{
+    position: relative;
+    top: 3rem;
+    width: 20rem;
+    margin: auto;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 20px;
+    
+   
+}
+.fff{
+    width: 100%;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+   
+}
+.wr{
+    background-image: url(images/icon-music.svg);
+    background-repeat: no-repeat;
+    background-position: left;
+    padding: 10px;
+    background-color: rgb(229, 237, 240);
+    border-radius: 20px;
+    
+}
+.rr{display: inline-block;
+    position: relative;
+    right: 30px;
+
+}
+.ch{
+    padding-left: 9px;
+    color: blue;
+    
+    position:relative;
+    bottom: 7px;
+    left: 47px;
+    
+
+  
+  
+}
+.bot{
+    padding: 30px;
+   
+}
+
+.buttom{
+    background-color: rgb(30, 30, 212);
+    padding: 1rem 4rem;
+    border-radius: 10px;
+   
+    text-decoration: none;
+    color: white;
+    
+    
+}
+.ca{
+    padding: 12px;
+}
+.can{
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(119, 115, 115);
+  
+}
+h3{
+    font-size: 17px;
+    color: rgb(133, 132, 132);
+}
+.attribution{
+    padding: 65px;
+}
